@@ -1,5 +1,4 @@
 import { Project, SkillGroup, Milestone, ContactInfo } from '../types';
-import gauravAvatar from '../assets/images/gaurav_profile_photo_1784912918761.jpg';
 
 export const PERSONAL_INFO = {
   name: "Gaurav Suhas Kad",
@@ -10,8 +9,8 @@ export const PERSONAL_INFO = {
   email: "gauravkad2424@gmail.com",
   phone: "+91 9673747641",
   college: "Zeal College of Engineering and Research, Narhe, Pune",
-  avatarUrl: gauravAvatar,
-  resumeUrl: "/resume.pdf"  // <--- ADD THIS LINE RIGHT HERE
+  avatarUrl: "/gaurav_photo.webp", // Points to public/gaurav_photo.webp
+  resumeUrl: "/resume.pdf"
 };
 
 export const CONTACT_INFO: ContactInfo = {
