@@ -9,7 +9,7 @@ export const PERSONAL_INFO = {
   email: "gauravkad2424@gmail.com",
   phone: "+91 9673747641",
   college: "Zeal College of Engineering and Research, Narhe, Pune",
-  avatarUrl: "/gaurav_photo.webp", // Points to public/gaurav_photo.webp
+  avatarUrl: "/gaurav_photo.jpg", // Points to public/gaurav_photo.webp
   resumeUrl: "/resume.pdf"
 };
 
