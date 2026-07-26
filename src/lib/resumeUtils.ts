@@ -1,4 +1,4 @@
-export const DEFAULT_RESUME_URL = 'https://raw.githubusercontent.com/gauravkad24/portfolio/main/resume.pdf';
+export const DEFAULT_RESUME_URL = '/resume.pdf';
 
 export function getActiveResumeLink(): string {
   try {

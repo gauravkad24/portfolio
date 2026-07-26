@@ -10,7 +10,8 @@ export const PERSONAL_INFO = {
   email: "gauravkad2424@gmail.com",
   phone: "+91 9673747641",
   college: "Zeal College of Engineering and Research, Narhe, Pune",
-  avatarUrl: gauravAvatar
+  avatarUrl: gauravAvatar,
+  resumeUrl: "/resume.pdf"  // <--- ADD THIS LINE RIGHT HERE
 };
 
 export const CONTACT_INFO: ContactInfo = {
